@@ -9,7 +9,6 @@ ___
 ___
 # 今までに開発した作品
 
-## 中学生時代
-　StreamlitというPythonだけでwebアプリが開発できるフレームワークを使って超シンプルな『BMI計算ツール』を作りました。自分の身長・体重を入力するとBMIを計算してくれるだけのものです。当時の記憶を頼りにコードを書きStreamlit Cloudに公開しているので興味があればご覧ください。  
-  
 ### [BMI計算ツール](https://rt-naokun-healthmanager-main-ckgxnw.streamlitapp.com/)
+中学2年生くらいのときにStreamlitというPythonだけでwebアプリが開発できるフレームワークを使って超シンプルな『BMI計算ツール』を作りました。自分の身長・体重を入力するとBMIを計算してくれるだけのものです。当時の記憶を頼りにコードを書きStreamlit Cloudに公開しているので興味があればご覧ください。  
+  

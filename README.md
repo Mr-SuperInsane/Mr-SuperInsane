@@ -11,8 +11,8 @@ ___
 ## おすすめの記事
 
 　なおコンサルティングのおすすめの記事はこちら
- [Amazonで自動購入するプログラムを作ってみた(https://nao-consulting.net/1961/)]  
- [時間割や提出物を教えてくれるLINE BOT作ってみた(https://nao-consulting.net/2365/)]  
- [LINE BOTの作り方講座パート1(https://nao-consulting.net/3041/)]  
+ [Amazonで自動購入するプログラムを作ってみた](https://nao-consulting.net/1961/)  
+ [時間割や提出物を教えてくれるLINE BOT作ってみた](https://nao-consulting.net/2365/)  
+ [LINE BOTの作り方講座パート1](https://nao-consulting.net/3041/)  
  他にもパソコンやスマホなどの記事もあるから見てね👍
  

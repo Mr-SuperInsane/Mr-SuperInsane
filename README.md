@@ -4,7 +4,7 @@
  
 ![](https://img.shields.io/badge/I%20love-Python-success) ![](https://img.shields.io/twitter/follow/nao_consulting?style=social)
 ___
-# ブログ運営
+# ブログ運営について
 
 　ガジェット系ブログ『[なおコンサルティング](https://nao-consulting.net/)』は2021年9頃に開設した。不定期更新で1年以上経った今でも90記事ほどしか書いていない。現在はサブブログになった『[NAOコンサルティング](https://note.com/naokun_gadget)』は2021年2月に開設した。メインブログである『なおコンサルティング』の収益はその月の更新記事数によって大きく変動するが、平均すると3万円くらい。案件はたまに受ける。案件待ってます！！
  

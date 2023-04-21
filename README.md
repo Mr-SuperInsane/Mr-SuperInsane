@@ -9,4 +9,4 @@ I develop mainly with python. I have no particular area of expertise and study n
 Please check my twitter.  
 Twitterやってるのでフォローしてね。
  
-![](https://img.shields.io/badge/I%20love-Python-success) ![](https://twitter.com/intent/follow?screen_name=nao_consulting)
+![](https://img.shields.io/badge/I%20love-Python-success)

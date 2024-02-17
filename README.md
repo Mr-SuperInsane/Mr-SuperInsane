@@ -15,4 +15,4 @@
   <img alt="" height="155" src="https://raw.githubusercontent.com/Mr-SuperInsane/Mr-SuperInsane/main/profile-summary-card-output/github-user-contribution.svg">
 </p>
   
-ﾄﾞｩﾜｧｧｧｧｧｧｧｧｧｧｾﾝﾅﾅﾋｬｸ!!!!!
+最近の趣味はスキンケア

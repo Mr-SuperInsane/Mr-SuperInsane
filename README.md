@@ -16,3 +16,5 @@
 </p>
   
 最近の趣味はスキンケア
+
+[僕のブログ(就活用)](https://note.com/naokun_gadget)

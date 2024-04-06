@@ -12,7 +12,4 @@
   <img alt="" height="205px" src="https://raw.githubusercontent.com/Mr-SuperInsane/Mr-SuperInsane/main/profile-summary-card-output/2077/3-stats.svg">
   <img alt="" height="205px" src="https://raw.githubusercontent.com/Mr-SuperInsane/Mr-SuperInsane/main/profile-summary-card-output/2077/4-productive-time.svg">
 </p>
-  
-最近の趣味はスキンケア
 
-[僕のブログ(就活用)](https://note.com/naokun_gadget)

@@ -13,4 +13,3 @@
   <img alt="" height="205px" src="https://raw.githubusercontent.com/Mr-SuperInsane/Mr-SuperInsane/main/profile-summary-card-output/2077/4-productive-time.svg">
 </p>
 
->check [Note Client](https://github.com/Mr-SuperInsane/NoteClient)

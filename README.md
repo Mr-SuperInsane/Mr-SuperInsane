@@ -17,7 +17,7 @@ INSANE / INSANE PROJECTS。
 
 「ありそうでなかったサービス」をテーマに、デスクトップアプリ・Webサービス・ライブラリを開発しています。日常の不便を技術で解決することが好きで、自分が欲しいと思ったものをそのまま形にしています。
 
-- 🔭 現在は **Google Takeout Connect** を中心に開発中
+- 🔭 現在は **Job Spark** を中心に開発中
 - 🌐 Webサービス・API の設計・運用も行っています
 - 🛠 デスクトップアプリから CLI ツールまで幅広く対応
 
@@ -30,7 +30,7 @@ INSANE / INSANE PROJECTS。
 | [**Google Takeout Connect**](https://github.com/Mr-SuperInsane/GoogleTakeoutConnect) | Google Takeout の写真・動画に撮影日時メタデータを一括書き戻すデスクトップアプリ | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) |
 | [**NoteClient 2**](https://github.com/Mr-SuperInsane/NoteClient2) | note へのMarkdown記事・画像・有料セクションを自動投稿できる非公式Pythonライブラリ | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**GitHub Card Generator**](https://github.com/Mr-SuperInsane/GitHub-Card-Generator) | WordPressブログに貼り付けられるGitHubリポジトリカードを生成するツール | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| [**Job Hunting**](https://job-hunting.net/) | 就職・転職活動を支援するWebサービス | ![Web](https://img.shields.io/badge/-Web_Service-0088CC?style=flat-square) |
+| [**Job Spark**](https://job-hunting.net/) | 就職・転職活動を支援するWebサービス | ![Web](https://img.shields.io/badge/-Web_Service-0088CC?style=flat-square) |
 | [**Trigger API**](https://trigger-api.net/) | Webhook・自動化トリガーを提供するAPIサービス | ![API](https://img.shields.io/badge/-API_Service-FF6B6B?style=flat-square) |
 
 ---
